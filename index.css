@@ -7,3 +7,8 @@
 .smurf-section h2 {
     color:rgb(39, 177, 223);
 }
+.smurf-section img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
